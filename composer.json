@@ -1,6 +1,6 @@
 {
-    "name": "your-vendor-name/package-name",
-    "description": "A short description of what your package does",
+    "name": "zqformbuilder",
+    "description": "zqformbuilder",
     "require": {
         "php": "^5.3.3 || ^7.0",
         "another-vendor/package": "1.0"
